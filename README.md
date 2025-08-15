@@ -4,7 +4,7 @@
 ## 📊 Problem Index  
 | #   | Problem | Difficulty | Tags | Solution |  
 |-----|---------|------------|------|----------|  
-| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | `Hash Table`, `String` | [lc13.md](./lc13-roman-to-integer.md) |  
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy | `Hash Table`, `String` | [lc13.md](./lc13-roman-to-int.md) |  
 
 ## Detailed Explanations:
 
