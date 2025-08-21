@@ -5,6 +5,7 @@
 | #   | Problem | Difficulty |
 |-----|---------|------------|
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy |
+| 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy |
 
 ## Detailed Explanations:
 
