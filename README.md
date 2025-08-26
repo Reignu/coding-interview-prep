@@ -5,7 +5,7 @@
 | #   | Problem | Difficulty |
 |-----|---------|------------|
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 🟢 Easy |
-| 57  | [Happy Number](https://leetcode.com/problems/insert-interval) | 🟡 Medium |
+| 57  | [Insert Interval](https://leetcode.com/problems/insert-interval) | 🟡 Medium |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | 🟢 Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | 🟢 Easy |
 
