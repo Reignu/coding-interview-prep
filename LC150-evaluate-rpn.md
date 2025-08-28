@@ -35,20 +35,35 @@ Process each token in the input list sequentially from left to right.
 ```python     
         for token in tokens:
 ```
-
+4. **Operator Detection**<br>
+Check if the current token represents a mathematical operator.
 ```python
             if token in ops:
 ```
+5. **Right Operand Retrieval**<br>
+Pop the top value from the stack to use as the right operand.
 ```python
                 b = stack.pop()
+```
+6. **Left Operand Retrieval**<br>
+Pop the next value from the stack to use as the left operand.
+```python
                 a = stack.pop()
+```
+7. **Operation Execution**<br>
+Apply the appropriate mathematical operation using the mapped function and push the computed result back onto the stack for future operations.
+```python
                 result = ops[token](a, b)
                 stack.append(result)
 ```
+10. **Numeric Conversion**<br>
+Convert the string token to an integer and add it to the stack.
 ```python
             else:
                 stack.append(int(token))
 ```
+11. **Final Result Extraction**<br>
+Return the single remaining value on the stack as the final result.
 ```python
         return stack[0]
 ```
