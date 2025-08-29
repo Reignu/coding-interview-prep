@@ -8,6 +8,7 @@
 | 57  | [Insert Interval](https://leetcode.com/problems/simplify-path) | 🟡 Medium |
 | 71  | [Simplify Path](https://leetcode.com/problems/insert-interval) | 🟡 Medium |
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | 🟡 Medium |
+| 155  | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | 🟢 Easy |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | 🟢 Easy |
 
