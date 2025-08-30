@@ -10,6 +10,7 @@
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | 🟡 Medium |
 | 155  | [Min Stack](https://leetcode.com/problems/min-stack) | 🟡 Medium |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number) | 🟢 Easy |
+| 224  | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | 🔴 Hard |
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | 🟢 Easy |
 
 ## Detailed Explanations:
